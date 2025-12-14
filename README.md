@@ -11,10 +11,10 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
             src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"
             width="40"
             alt="Discord"
+            Sciber Guild
         >
     </a>
 </p>
- Sciber Guild 
 <br>
 
 ### 🤖 Linguagens e Tecnologias
