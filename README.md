@@ -10,7 +10,7 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
         <img 
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
-            src="https://pngimg.com/d/discord_PNG8.png&style=for-the-badge&labelColor=488207"
+            src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png"
         />
     </a>
 </p>
