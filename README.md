@@ -46,7 +46,7 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
 <br/>
 <br/>
 
-### 📦 Meus Projetos
+### 🗃️ Meus Projetos
 
 <p align="left">
     <a href="https://discord.gg/4XMjsAgBk3" target="_blank">
