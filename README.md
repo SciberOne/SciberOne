@@ -22,7 +22,7 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="margin-left: 12px;"
+    style="margin-left: 144px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img 
