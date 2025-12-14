@@ -8,7 +8,7 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
 <p align="left">
     <a href="https://discord.gg/4XMjsAgBk3" target="_blank" rel="noopener">
         <img 
-            alt="Total de estrelas"
+            alt="Sciber Guilf"
             title="Total de estrelas GitHub"
             src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png"
         />
