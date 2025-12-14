@@ -3,7 +3,7 @@
 
 **`Acadêmico e Desenvolvedor junio`**
 
-Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em Inimutaba - MG. Atualmente, estou cursando Física-Matemática na Universidade Federal de Viçosa (UFV) e fiz moilidade acadêmica na UFMG. Sou apaixonada por ciência, tecnologia e ensino.
+Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em Inimutaba - MG. Atualmente, estou cursando Física-Matemática na Universidade Federal de Viçosa (UFV) e fiz moilidade acadêmica na UFMG. Sou apaixonada por ciência, tecnologia, música e ensino.
 
 <p align="left">
         <img 
