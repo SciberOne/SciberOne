@@ -13,6 +13,7 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
 ---
                 
 <br>
+<br>
 
 ### 🤖 Linguagens e Tecnologias
 
