@@ -14,7 +14,7 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
         <img 
-            alt="Seguidores" 
+            alt="Meus livros" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
