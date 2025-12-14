@@ -10,7 +10,7 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
         <img 
             alt="Sciber Guild"
             title="Total de estrelas GitHub"
-            src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"
         />
     </a>
 </p>
