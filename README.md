@@ -55,7 +55,7 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
     title="Overleaf" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://user-images.githubusercontent.com/23329364/122003663-abcb4e80-cdb3-11eb-9da5-4127e5e7d03e.png" 
+    src="https://app.yunohost.org/default/v3/logos/d41d5d9419a1b887ca0ff4027443d69f0b42c9467cf766ed31e2792301826214.png" 
 />
 
 <br/>
