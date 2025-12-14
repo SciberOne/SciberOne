@@ -5,6 +5,7 @@
 
 Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em Inimutaba - MG. Atualmente, estou cursando Física-Matemática na Universidade Federal de Viçosa (UFV) e fiz moilidade acadêmica na UFMG. Sou apaixonada por ciência, tecnologia, música e ensino.
 
+SciberGuild Discord
 <p align="left"> 
     <a href="https://discord.gg/4XMjsAgBk3" target="_blank"> 
         <img 
@@ -13,7 +14,6 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
     </a> 
 </p>
 <br>
-
 
 
 ### 🤖 Linguagens e Tecnologias
