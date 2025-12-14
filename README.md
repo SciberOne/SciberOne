@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Luiz Gustavo
-*'Acadêmico e Desenvolvedor junior'*
 
-**`Desenvolvedora FullStack`**
+
+**`Acadêmico e Desenvolvedor junio`**
 
 Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em Inimutaba - MG. Atualmente, estou cursando Física-Matemática. Sou apaixonada por tecnologia, ciência e pelo ensino.
 
