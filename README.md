@@ -6,7 +6,7 @@
 Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em Inimutaba - MG. Atualmente, estou cursando Física-Matemática na Universidade Federal de Viçosa (UFV) e fiz moilidade acadêmica na UFMG. Sou apaixonada por ciência, tecnologia, música e ensino.
 
 <p align="left">
-    <a href="https://github.com/Larissakich" target="_blank" rel="noopener">
+    <a href="https://discord.gg/4XMjsAgBk3" target="_blank" rel="noopener">
         <img 
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
