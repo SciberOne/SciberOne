@@ -17,7 +17,7 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
 Tenho vasto interesse por Álgebra, Cálculo Diferencial e Integral, Programação, Econômia e Música.
 
 
-## 🚩Guia de estudos básicos
+### 🚩Guia de estudos básicos
 Fornecer uma base sólida e estruturada para o desenvolvimento intelectual em áreas de Matemática e Ciências, focando nos conceitos fundamentais e referências bibliográficas reconhecidas.
 
 ### Matématica
