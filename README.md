@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luiz Gustavo
 
-Me chamo **Luiz Gustavo**, sou natural de Minas Gerais. Concluí o ensino médio em Inimutaba - MG. Atualmente, estou cursando Física-Matemática na Universidade Federal de Viçosa (UFV) e fiz moilidade acadêmica na UFMG. Tenho vasto interesse por **ciência**, **tecnologia**, **música**, **economia** e **ensino**.
+Me chamo **Luiz Gustavo**, sou natural de Minas Gerais. Concluí o ensino médio em Inimutaba - MG. Atualmente, estou cursando Física-Matemática na Universidade Federal de Viçosa (UFV) e fiz mobilidade acadêmica na UFMG. Tenho vasto interesse por **ciência**, **tecnologia**, **música**, **economia** e **ensino**.
 
 
 
