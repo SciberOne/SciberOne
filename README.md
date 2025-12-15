@@ -30,6 +30,9 @@ Fornecer uma base sólida e estruturada para o desenvolvimento intelectual em á
 6. Álgebra Linear
 7. Cálculo Diferencial e Integral
 
+### Física
+
+
 
 ## 🗃️ Meus Projetos
 
