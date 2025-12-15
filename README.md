@@ -21,7 +21,7 @@ Me chamo **Luiz Gustavo**, sou natural de Minas Gerais. Concluí o ensino médio
 <br>
 
 
-# 📚 Guia de estudos básicos
+## 📚 Guia de estudos básicos
 Guia com intuito de Fornecer uma base sólida e estruturada para o desenvolvimento intelectual em áreas de Matemática e Ciências, focando nos conceitos fundamentais e referências bibliográficas reconhecidas.
 
 ### Matématica
