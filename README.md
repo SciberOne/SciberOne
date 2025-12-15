@@ -11,7 +11,7 @@ Me chamo **Luiz Gustavo**, sou natural de Minas Gerais. Concluí o ensino médio
             width="40" alt="Discord" >
     </a> 
 </p>
- Meus artigos 
+{Meus artigos}()
 <br>
 
 ### 🗃️ Meus Projetos
