@@ -22,7 +22,7 @@ Fornecer uma base sólida e estruturada para o desenvolvimento intelectual em á
 
 ### Matématica
 
-1. Noções de Lógica, Conjuntos e Funções - Iezzi. *Fundamentos de matemática elementar Volume 1*.
+1. Noções de Lógica, Conjuntos e Funções - `EZZI, G. & MURAKAMI, C., Fundamentos de Matemática Elementar`.
 
 
 
