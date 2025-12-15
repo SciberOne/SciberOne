@@ -20,7 +20,7 @@ Tenho vasto interesse por Álgebra, Cálculo Diferencial e Integral, Programaç�
 
 
 # 🚩 Guia de estudos básicos
-Fornecer uma base sólida e estruturada para o desenvolvimento intelectual em áreas de Matemática e Ciências, focando nos conceitos fundamentais e referências bibliográficas reconhecidas.
+Guia com intuito de Fornecer uma base sólida e estruturada para o desenvolvimento intelectual em áreas de Matemática e Ciências, focando nos conceitos fundamentais e referências bibliográficas reconhecidas.
 
 ### Matématica
 
