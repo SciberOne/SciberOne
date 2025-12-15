@@ -12,7 +12,7 @@ Me chamo Luiz Gustavo, sou natural de Minas Gerais. Concluí o ensino médio em 
 </p>
 <br>
 
-# 🗃️ Meus Projetos
+### 🗃️ Meus Projetos
 
 Ravs Center Education
 
