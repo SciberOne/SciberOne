@@ -15,7 +15,7 @@ Me chamo **Luiz Gustavo**, sou natural de Minas Gerais. Concluí o ensino médio
 
 ### 🗃️ Meus Projetos
 
-Ravs Center Education
+- Ravs Center Education: Central educacional em estilo hub com todas as ferramentas fundamentais para o desenvolvimento infantil
 
 <br>
 
