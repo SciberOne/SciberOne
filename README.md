@@ -22,13 +22,18 @@ Fornecer uma base sólida e estruturada para o desenvolvimento intelectual em á
 
 ### Matématica
 
+Nivel 1:
 1. Noções de Lógica, Conjuntos e Funções - `IEZZI, G. & MURAKAMI, C. Fundamentos de Matemática Elementar`.
-2. Logaritmos 
+2. Logaritmos - 
 3. Trigonometria - `IEZZI, G. Fundamentos da Matemática Elementar, Trigonometria. Vol. 3`
 4. Polinômios e complexos -
-5. Geometria Ánalitica -
-6. Álgebra Linear
-7. Cálculo Diferencial e Integral
+
+Bibliográfias Complementares: `DANIEL CORDEIRO, Um Convite à Matemática: com técnicas de demonstração e notas históricas`
+
+Nivel 2:
+1. Geometria Ánalitica -
+2. Álgebra Linear -
+3. Cálculo Diferencial e Integral
 
 ### Física
 
