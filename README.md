@@ -22,8 +22,13 @@ Fornecer uma base sólida e estruturada para o desenvolvimento intelectual em á
 
 ### Matématica
 
-1. Noções de Lógica, Conjuntos e Funções - `IEZZI, G. & MURAKAMI, C., Fundamentos de Matemática Elementar`.
-
+1. Noções de Lógica, Conjuntos e Funções - `IEZZI, G. & MURAKAMI, C. Fundamentos de Matemática Elementar`.
+2. Logaritmos 
+3. Trigonometria - `IEZZI, G. Fundamentos da Matemática Elementar, Trigonometria. Vol. 3`
+4. Polinômios e complexos -
+5. Geometria Ánalitica -
+6. Álgebra Linear
+7. Cálculo Diferencial e Integral
 
 
 ## 🗃️ Meus Projetos
